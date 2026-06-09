@@ -8,7 +8,7 @@
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)
 ![UAS](https://img.shields.io/badge/Final%20Exam-Machine%20Learning-purple?style=flat-square)
 
-> Final Examination Project — Informatics S1, Universitas Bunda Mulia · 2026
+> Final Examination Project - Informatics S1, Universitas Bunda Mulia · 2026
 
 ---
 
